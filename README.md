@@ -2,7 +2,7 @@
 
 This tries to be a simple solution to the problem 1 of https://github.com/teamleadercrm/coding-test
 
-I used slim microframework in order to develop this as fast as possible.
+I used silex microframework in order to develop this as fast as possible.
 
 You'll need phpunit in order to run the unit tests, you can find the binary in vendor/bin/phpunit just after install the vendors with composer.
 
